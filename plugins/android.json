@@ -8,29 +8,29 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.odorisio"
+            "PACKAGE_NAME": "com.odorisio.Odorisio"
         }
     },
     "dependent_plugins": {}
